@@ -1,4 +1,4 @@
-import { TodoItem } from "./TodoItem"
+import { TodoItem } from "./index"
 
 export const TodoList = ({ todos=[], onDeleteTodo, onToggleTodo }) => {
     
