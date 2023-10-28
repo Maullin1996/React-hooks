@@ -23,6 +23,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter>
   {/* //<React.StrictMode> */}
     < MainApp />
-  {/* //</React.StrictMode> */}
+  {/*</React.StrictMode> */}
   </BrowserRouter>
 )
